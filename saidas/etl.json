@@ -1,0 +1,11 @@
+{
+  "vendas_extraidas": 2483,
+  "clientes_extraidos": 400,
+  "duplicatas_removidas": 20,
+  "vendas_validas": 2435,
+  "clientes_validos": 400,
+  "clientes_sem_ibge": 3,
+  "origem_ibge": "api_ibge",
+  "municipios": 16,
+  "executado_em": "2026-10-03T21:07:43"
+}

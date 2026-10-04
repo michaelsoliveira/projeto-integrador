@@ -1,0 +1,1 @@
+O melhor modelo no teste foi Logistic Regression com accuracy 0.863 e F1 0.621. A classe majoritaria acertou accuracy 0.787 e F1 0.000. As tres features de maior correlacao absoluta com o alvo foram recencia_dias (0.596), mes_ultima_compra (0.585), compras_90d (0.432). A base tem 400 clientes, taxa de churn 0.210, treino 320 e teste 80.

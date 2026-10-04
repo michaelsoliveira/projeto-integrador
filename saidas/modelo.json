@@ -1,0 +1,29 @@
+{
+  "clientes": 400,
+  "churn_rate": 0.21,
+  "treino": 320,
+  "teste": 80,
+  "baseline_accuracy": 0.7875,
+  "baseline_f1": 0.0,
+  "modelos": [
+    {
+      "modelo": "Logistic Regression",
+      "accuracy": 0.8625,
+      "f1": 0.6207,
+      "cv_f1_mean": 0.6546
+    },
+    {
+      "modelo": "Random Forest",
+      "accuracy": 0.8375,
+      "f1": 0.6061,
+      "cv_f1_mean": 0.589
+    },
+    {
+      "modelo": "Gradient Boosting",
+      "accuracy": 0.8375,
+      "f1": 0.6061,
+      "cv_f1_mean": 0.5722
+    }
+  ],
+  "melhor": "Logistic Regression"
+}

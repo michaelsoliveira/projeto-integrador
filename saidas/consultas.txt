@@ -1,0 +1,31 @@
+-- Conferencia depois do ETL e da carga de features.
+
+SELECT 'bronze.vendas' AS tabela, COUNT(*) AS linhas FROM bronze.vendas
+UNION ALL SELECT 'bronze.clientes', COUNT(*) FROM bronze.clientes
+UNION ALL SELECT 'bronze.municipios', COUNT(*) FROM bronze.municipios
+UNION ALL SELECT 'silver.vendas', COUNT(*) FROM silver.vendas
+UNION ALL SELECT 'silver.clientes', COUNT(*) FROM silver.clientes
+UNION ALL SELECT 'gold.fato_venda', COUNT(*) FROM gold.fato_venda
+UNION ALL SELECT 'gold.cliente_features', COUNT(*) FROM gold.cliente_features
+ORDER BY 1
+{'tabela': 'bronze.clientes', 'linhas': 400}
+{'tabela': 'bronze.municipios', 'linhas': 16}
+{'tabela': 'bronze.vendas', 'linhas': 2483}
+{'tabela': 'gold.cliente_features', 'linhas': 400}
+{'tabela': 'gold.fato_venda', 'linhas': 2435}
+{'tabela': 'silver.clientes', 'linhas': 400}
+{'tabela': 'silver.vendas', 'linhas': 2435}
+
+SELECT etapa, extraidos, transformados, carregados, detalhe
+FROM ops.etl_log
+ORDER BY id
+{'etapa': 'vendas_csv', 'extraidos': 2483, 'transformados': 2435, 'carregados': 2435, 'detalhe': 'duplicatas=20'}
+{'etapa': 'clientes_json', 'extraidos': 400, 'transformados': 400, 'carregados': 400, 'detalhe': 'sem_ibge=3'}
+{'etapa': 'ibge_api', 'extraidos': 16, 'transformados': 16, 'carregados': 16, 'detalhe': 'api_ibge'}
+
+SELECT churn, COUNT(*) AS clientes
+FROM gold.cliente_features
+GROUP BY churn
+ORDER BY churn
+{'churn': 0, 'clientes': 316}
+{'churn': 1, 'clientes': 84}

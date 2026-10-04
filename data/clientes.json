@@ -1,0 +1,3602 @@
+[
+  {
+    "cliente_id":1,
+    "nome":"Lucia 1",
+    "email":"  CLIENTE1@VAREJOAMAZONIA.COM  ",
+    "cidade":"Cidade Inexistente",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-17",
+    "idade":null
+  },
+  {
+    "cliente_id":2,
+    "nome":"Carlos 2",
+    "email":"cliente2@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-12",
+    "idade":69.0
+  },
+  {
+    "cliente_id":3,
+    "nome":"Joao 3",
+    "email":"cliente3@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-10-31",
+    "idade":33.0
+  },
+  {
+    "cliente_id":4,
+    "nome":"Lucia 4",
+    "email":"cliente4@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2021-11-14",
+    "idade":34.0
+  },
+  {
+    "cliente_id":5,
+    "nome":"Fernanda 5",
+    "email":"cliente5@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2022-04-19",
+    "idade":52.0
+  },
+  {
+    "cliente_id":6,
+    "nome":"Joao 6",
+    "email":"cliente6@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-25",
+    "idade":53.0
+  },
+  {
+    "cliente_id":7,
+    "nome":"Lucia 7",
+    "email":"cliente7@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-12-05",
+    "idade":33.0
+  },
+  {
+    "cliente_id":8,
+    "nome":"Fernanda 8",
+    "email":"cliente8@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-04-01",
+    "idade":24.0
+  },
+  {
+    "cliente_id":9,
+    "nome":"Ricardo 9",
+    "email":"cliente9@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-08-12",
+    "idade":66.0
+  },
+  {
+    "cliente_id":10,
+    "nome":"Maria 10",
+    "email":"cliente10@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2023-01-05",
+    "idade":59.0
+  },
+  {
+    "cliente_id":11,
+    "nome":"Hugo 11",
+    "email":"cliente11@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2021-08-14",
+    "idade":60.0
+  },
+  {
+    "cliente_id":12,
+    "nome":"Joao 12",
+    "email":"cliente12@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2023-04-15",
+    "idade":63.0
+  },
+  {
+    "cliente_id":13,
+    "nome":"Ana 13",
+    "email":"cliente13@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-07-16",
+    "idade":70.0
+  },
+  {
+    "cliente_id":14,
+    "nome":"Maria 14",
+    "email":"cliente14@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-01-29",
+    "idade":47.0
+  },
+  {
+    "cliente_id":15,
+    "nome":"Carlos 15",
+    "email":"cliente15@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2022-11-04",
+    "idade":55.0
+  },
+  {
+    "cliente_id":16,
+    "nome":"Beatriz 16",
+    "email":"cliente16@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-08-15",
+    "idade":59.0
+  },
+  {
+    "cliente_id":17,
+    "nome":"Lucia 17",
+    "email":"cliente17@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2023-04-14",
+    "idade":46.0
+  },
+  {
+    "cliente_id":18,
+    "nome":"Hugo 18",
+    "email":"cliente18@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-03-18",
+    "idade":61.0
+  },
+  {
+    "cliente_id":19,
+    "nome":"Ricardo 19",
+    "email":"cliente19@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2022-12-25",
+    "idade":69.0
+  },
+  {
+    "cliente_id":20,
+    "nome":"Maria 20",
+    "email":"cliente20@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2023-07-24",
+    "idade":51.0
+  },
+  {
+    "cliente_id":21,
+    "nome":"Joao 21",
+    "email":"cliente21@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-06-24",
+    "idade":37.0
+  },
+  {
+    "cliente_id":22,
+    "nome":"Lucia 22",
+    "email":"cliente22@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2022-02-04",
+    "idade":70.0
+  },
+  {
+    "cliente_id":23,
+    "nome":"Hugo 23",
+    "email":"cliente23@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-06-22",
+    "idade":38.0
+  },
+  {
+    "cliente_id":24,
+    "nome":"Fernanda 24",
+    "email":"cliente24@varejoamazonia.com",
+    "cidade":" macapa ",
+    "segmento":"VIP",
+    "data_cadastro":"2022-09-28",
+    "idade":43.0
+  },
+  {
+    "cliente_id":25,
+    "nome":"Ana 25",
+    "email":"cliente25@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-24",
+    "idade":42.0
+  },
+  {
+    "cliente_id":26,
+    "nome":"Joao 26",
+    "email":"cliente26@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2021-11-03",
+    "idade":40.0
+  },
+  {
+    "cliente_id":27,
+    "nome":"Hugo 27",
+    "email":"cliente27@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2021-06-03",
+    "idade":65.0
+  },
+  {
+    "cliente_id":28,
+    "nome":"Maria 28",
+    "email":"cliente28@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2021-06-22",
+    "idade":57.0
+  },
+  {
+    "cliente_id":29,
+    "nome":"Joao 29",
+    "email":"cliente29@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-09-12",
+    "idade":50.0
+  },
+  {
+    "cliente_id":30,
+    "nome":"Ana 30",
+    "email":"cliente30@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2021-09-25",
+    "idade":null
+  },
+  {
+    "cliente_id":31,
+    "nome":"Ricardo 31",
+    "email":"cliente31@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-08-04",
+    "idade":41.0
+  },
+  {
+    "cliente_id":32,
+    "nome":"Lucia 32",
+    "email":"  CLIENTE32@VAREJOAMAZONIA.COM  ",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2021-09-11",
+    "idade":65.0
+  },
+  {
+    "cliente_id":33,
+    "nome":"Pedro 33",
+    "email":"cliente33@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-11-09",
+    "idade":64.0
+  },
+  {
+    "cliente_id":34,
+    "nome":"Pedro 34",
+    "email":"cliente34@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-21",
+    "idade":43.0
+  },
+  {
+    "cliente_id":35,
+    "nome":"Lucia 35",
+    "email":"cliente35@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2023-09-29",
+    "idade":51.0
+  },
+  {
+    "cliente_id":36,
+    "nome":"Lucia 36",
+    "email":"cliente36@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2021-09-28",
+    "idade":23.0
+  },
+  {
+    "cliente_id":37,
+    "nome":"Beatriz 37",
+    "email":"cliente37@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2021-10-07",
+    "idade":25.0
+  },
+  {
+    "cliente_id":38,
+    "nome":"Carlos 38",
+    "email":"cliente38@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-07-04",
+    "idade":49.0
+  },
+  {
+    "cliente_id":39,
+    "nome":"Ana 39",
+    "email":"cliente39@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-08-15",
+    "idade":59.0
+  },
+  {
+    "cliente_id":40,
+    "nome":"Fernanda 40",
+    "email":"cliente40@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-07-29",
+    "idade":46.0
+  },
+  {
+    "cliente_id":41,
+    "nome":"Hugo 41",
+    "email":"cliente41@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2023-09-10",
+    "idade":24.0
+  },
+  {
+    "cliente_id":42,
+    "nome":"Fernanda 42",
+    "email":"cliente42@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2023-11-08",
+    "idade":63.0
+  },
+  {
+    "cliente_id":43,
+    "nome":"Ana 43",
+    "email":"cliente43@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-01-03",
+    "idade":24.0
+  },
+  {
+    "cliente_id":44,
+    "nome":"Ana 44",
+    "email":"cliente44@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2021-12-27",
+    "idade":70.0
+  },
+  {
+    "cliente_id":45,
+    "nome":"Carlos 45",
+    "email":"cliente45@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2021-11-23",
+    "idade":65.0
+  },
+  {
+    "cliente_id":46,
+    "nome":"Ana 46",
+    "email":"cliente46@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2022-11-05",
+    "idade":43.0
+  },
+  {
+    "cliente_id":47,
+    "nome":"Maria 47",
+    "email":"cliente47@varejoamazonia.com",
+    "cidade":"santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-04-14",
+    "idade":23.0
+  },
+  {
+    "cliente_id":48,
+    "nome":"Joao 48",
+    "email":"cliente48@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2021-07-24",
+    "idade":42.0
+  },
+  {
+    "cliente_id":49,
+    "nome":"Beatriz 49",
+    "email":"cliente49@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-11-06",
+    "idade":27.0
+  },
+  {
+    "cliente_id":50,
+    "nome":"Maria 50",
+    "email":"cliente50@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-09-07",
+    "idade":49.0
+  },
+  {
+    "cliente_id":51,
+    "nome":"Carlos 51",
+    "email":"cliente51@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-08-22",
+    "idade":49.0
+  },
+  {
+    "cliente_id":52,
+    "nome":"Ricardo 52",
+    "email":"cliente52@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2021-10-28",
+    "idade":39.0
+  },
+  {
+    "cliente_id":53,
+    "nome":"Beatriz 53",
+    "email":"cliente53@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-10-25",
+    "idade":22.0
+  },
+  {
+    "cliente_id":54,
+    "nome":"Hugo 54",
+    "email":"cliente54@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-06-21",
+    "idade":27.0
+  },
+  {
+    "cliente_id":55,
+    "nome":"Ricardo 55",
+    "email":"cliente55@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2021-10-06",
+    "idade":46.0
+  },
+  {
+    "cliente_id":56,
+    "nome":"Ricardo 56",
+    "email":"cliente56@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2021-07-02",
+    "idade":64.0
+  },
+  {
+    "cliente_id":57,
+    "nome":"Ana 57",
+    "email":"cliente57@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-06-16",
+    "idade":57.0
+  },
+  {
+    "cliente_id":58,
+    "nome":"Ana 58",
+    "email":"cliente58@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-10-20",
+    "idade":66.0
+  },
+  {
+    "cliente_id":59,
+    "nome":"Joao 59",
+    "email":"cliente59@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2021-10-11",
+    "idade":null
+  },
+  {
+    "cliente_id":60,
+    "nome":"Maria 60",
+    "email":"cliente60@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2023-06-08",
+    "idade":57.0
+  },
+  {
+    "cliente_id":61,
+    "nome":"Ricardo 61",
+    "email":"cliente61@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2023-09-03",
+    "idade":40.0
+  },
+  {
+    "cliente_id":62,
+    "nome":"Beatriz 62",
+    "email":"cliente62@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2022-07-14",
+    "idade":53.0
+  },
+  {
+    "cliente_id":63,
+    "nome":"Carlos 63",
+    "email":"  CLIENTE63@VAREJOAMAZONIA.COM  ",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2021-11-11",
+    "idade":67.0
+  },
+  {
+    "cliente_id":64,
+    "nome":"Maria 64",
+    "email":"cliente64@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-06-15",
+    "idade":44.0
+  },
+  {
+    "cliente_id":65,
+    "nome":"Hugo 65",
+    "email":"cliente65@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-07-08",
+    "idade":40.0
+  },
+  {
+    "cliente_id":66,
+    "nome":"Maria 66",
+    "email":"cliente66@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-07-26",
+    "idade":51.0
+  },
+  {
+    "cliente_id":67,
+    "nome":"Ricardo 67",
+    "email":"cliente67@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2022-04-01",
+    "idade":34.0
+  },
+  {
+    "cliente_id":68,
+    "nome":"Ana 68",
+    "email":"cliente68@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-06-05",
+    "idade":64.0
+  },
+  {
+    "cliente_id":69,
+    "nome":"Fernanda 69",
+    "email":"cliente69@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-06-27",
+    "idade":32.0
+  },
+  {
+    "cliente_id":70,
+    "nome":"Carlos 70",
+    "email":"cliente70@varejoamazonia.com",
+    "cidade":" macapa ",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-19",
+    "idade":21.0
+  },
+  {
+    "cliente_id":71,
+    "nome":"Lucia 71",
+    "email":"cliente71@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-05-04",
+    "idade":70.0
+  },
+  {
+    "cliente_id":72,
+    "nome":"Hugo 72",
+    "email":"cliente72@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-09-24",
+    "idade":64.0
+  },
+  {
+    "cliente_id":73,
+    "nome":"Ana 73",
+    "email":"cliente73@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-11-05",
+    "idade":50.0
+  },
+  {
+    "cliente_id":74,
+    "nome":"Beatriz 74",
+    "email":"cliente74@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2021-09-30",
+    "idade":46.0
+  },
+  {
+    "cliente_id":75,
+    "nome":"Hugo 75",
+    "email":"cliente75@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2021-09-12",
+    "idade":49.0
+  },
+  {
+    "cliente_id":76,
+    "nome":"Hugo 76",
+    "email":"cliente76@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2021-10-22",
+    "idade":35.0
+  },
+  {
+    "cliente_id":77,
+    "nome":"Fernanda 77",
+    "email":"cliente77@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-08-01",
+    "idade":29.0
+  },
+  {
+    "cliente_id":78,
+    "nome":"Hugo 78",
+    "email":"cliente78@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2021-09-29",
+    "idade":36.0
+  },
+  {
+    "cliente_id":79,
+    "nome":"Pedro 79",
+    "email":"cliente79@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-30",
+    "idade":42.0
+  },
+  {
+    "cliente_id":80,
+    "nome":"Lucia 80",
+    "email":"cliente80@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2022-11-25",
+    "idade":55.0
+  },
+  {
+    "cliente_id":81,
+    "nome":"Fernanda 81",
+    "email":"cliente81@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-03-01",
+    "idade":44.0
+  },
+  {
+    "cliente_id":82,
+    "nome":"Beatriz 82",
+    "email":"cliente82@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-02",
+    "idade":64.0
+  },
+  {
+    "cliente_id":83,
+    "nome":"Fernanda 83",
+    "email":"cliente83@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2023-08-12",
+    "idade":68.0
+  },
+  {
+    "cliente_id":84,
+    "nome":"Ana 84",
+    "email":"cliente84@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-03-02",
+    "idade":25.0
+  },
+  {
+    "cliente_id":85,
+    "nome":"Fernanda 85",
+    "email":"cliente85@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2022-10-16",
+    "idade":41.0
+  },
+  {
+    "cliente_id":86,
+    "nome":"Beatriz 86",
+    "email":"cliente86@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2022-10-04",
+    "idade":55.0
+  },
+  {
+    "cliente_id":87,
+    "nome":"Ricardo 87",
+    "email":"cliente87@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2021-09-08",
+    "idade":65.0
+  },
+  {
+    "cliente_id":88,
+    "nome":"Ana 88",
+    "email":"cliente88@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2021-08-04",
+    "idade":null
+  },
+  {
+    "cliente_id":89,
+    "nome":"Ana 89",
+    "email":"cliente89@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-10-12",
+    "idade":65.0
+  },
+  {
+    "cliente_id":90,
+    "nome":"Lucia 90",
+    "email":"cliente90@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-07-02",
+    "idade":23.0
+  },
+  {
+    "cliente_id":91,
+    "nome":"Ricardo 91",
+    "email":"cliente91@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-04",
+    "idade":26.0
+  },
+  {
+    "cliente_id":92,
+    "nome":"Joao 92",
+    "email":"cliente92@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-01-08",
+    "idade":64.0
+  },
+  {
+    "cliente_id":93,
+    "nome":"Carlos 93",
+    "email":"cliente93@varejoamazonia.com",
+    "cidade":"santana",
+    "segmento":"Regular",
+    "data_cadastro":"2023-05-13",
+    "idade":52.0
+  },
+  {
+    "cliente_id":94,
+    "nome":"Lucia 94",
+    "email":"  CLIENTE94@VAREJOAMAZONIA.COM  ",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-01-03",
+    "idade":41.0
+  },
+  {
+    "cliente_id":95,
+    "nome":"Joao 95",
+    "email":"cliente95@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2023-06-14",
+    "idade":48.0
+  },
+  {
+    "cliente_id":96,
+    "nome":"Lucia 96",
+    "email":"cliente96@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-09-13",
+    "idade":44.0
+  },
+  {
+    "cliente_id":97,
+    "nome":"Lucia 97",
+    "email":"cliente97@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-08-14",
+    "idade":36.0
+  },
+  {
+    "cliente_id":98,
+    "nome":"Beatriz 98",
+    "email":"cliente98@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-10-25",
+    "idade":25.0
+  },
+  {
+    "cliente_id":99,
+    "nome":"Joao 99",
+    "email":"cliente99@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2023-07-29",
+    "idade":58.0
+  },
+  {
+    "cliente_id":100,
+    "nome":"Ana 100",
+    "email":"cliente100@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2023-03-18",
+    "idade":60.0
+  },
+  {
+    "cliente_id":101,
+    "nome":"Ana 101",
+    "email":"cliente101@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-11-18",
+    "idade":37.0
+  },
+  {
+    "cliente_id":102,
+    "nome":"Fernanda 102",
+    "email":"cliente102@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2021-11-01",
+    "idade":56.0
+  },
+  {
+    "cliente_id":103,
+    "nome":"Ricardo 103",
+    "email":"cliente103@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-04-08",
+    "idade":36.0
+  },
+  {
+    "cliente_id":104,
+    "nome":"Hugo 104",
+    "email":"cliente104@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-15",
+    "idade":58.0
+  },
+  {
+    "cliente_id":105,
+    "nome":"Joao 105",
+    "email":"cliente105@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-04-22",
+    "idade":35.0
+  },
+  {
+    "cliente_id":106,
+    "nome":"Pedro 106",
+    "email":"cliente106@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2023-05-23",
+    "idade":23.0
+  },
+  {
+    "cliente_id":107,
+    "nome":"Carlos 107",
+    "email":"cliente107@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-24",
+    "idade":26.0
+  },
+  {
+    "cliente_id":108,
+    "nome":"Hugo 108",
+    "email":"cliente108@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2021-10-31",
+    "idade":60.0
+  },
+  {
+    "cliente_id":109,
+    "nome":"Lucia 109",
+    "email":"cliente109@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2022-04-23",
+    "idade":22.0
+  },
+  {
+    "cliente_id":110,
+    "nome":"Ana 110",
+    "email":"cliente110@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2022-01-11",
+    "idade":43.0
+  },
+  {
+    "cliente_id":111,
+    "nome":"Hugo 111",
+    "email":"cliente111@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-11-22",
+    "idade":42.0
+  },
+  {
+    "cliente_id":112,
+    "nome":"Hugo 112",
+    "email":"cliente112@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2021-11-26",
+    "idade":65.0
+  },
+  {
+    "cliente_id":113,
+    "nome":"Lucia 113",
+    "email":"cliente113@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-11",
+    "idade":43.0
+  },
+  {
+    "cliente_id":114,
+    "nome":"Maria 114",
+    "email":"cliente114@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2022-09-06",
+    "idade":39.0
+  },
+  {
+    "cliente_id":115,
+    "nome":"Fernanda 115",
+    "email":"cliente115@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-11-05",
+    "idade":21.0
+  },
+  {
+    "cliente_id":116,
+    "nome":"Beatriz 116",
+    "email":"cliente116@varejoamazonia.com",
+    "cidade":"MACAPA",
+    "segmento":"VIP",
+    "data_cadastro":"2022-10-14",
+    "idade":26.0
+  },
+  {
+    "cliente_id":117,
+    "nome":"Ana 117",
+    "email":"cliente117@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-08-29",
+    "idade":null
+  },
+  {
+    "cliente_id":118,
+    "nome":"Ricardo 118",
+    "email":"cliente118@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-12-18",
+    "idade":54.0
+  },
+  {
+    "cliente_id":119,
+    "nome":"Ricardo 119",
+    "email":"cliente119@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-05-19",
+    "idade":45.0
+  },
+  {
+    "cliente_id":120,
+    "nome":"Beatriz 120",
+    "email":"cliente120@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2023-05-28",
+    "idade":29.0
+  },
+  {
+    "cliente_id":121,
+    "nome":"Beatriz 121",
+    "email":"cliente121@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2021-12-21",
+    "idade":50.0
+  },
+  {
+    "cliente_id":122,
+    "nome":"Lucia 122",
+    "email":"cliente122@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-04-09",
+    "idade":62.0
+  },
+  {
+    "cliente_id":123,
+    "nome":"Maria 123",
+    "email":"cliente123@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-02-21",
+    "idade":45.0
+  },
+  {
+    "cliente_id":124,
+    "nome":"Lucia 124",
+    "email":"cliente124@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-05-06",
+    "idade":58.0
+  },
+  {
+    "cliente_id":125,
+    "nome":"Pedro 125",
+    "email":"  CLIENTE125@VAREJOAMAZONIA.COM  ",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2022-06-28",
+    "idade":55.0
+  },
+  {
+    "cliente_id":126,
+    "nome":"Hugo 126",
+    "email":"cliente126@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2021-10-13",
+    "idade":22.0
+  },
+  {
+    "cliente_id":127,
+    "nome":"Ana 127",
+    "email":"cliente127@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-12-13",
+    "idade":65.0
+  },
+  {
+    "cliente_id":128,
+    "nome":"Pedro 128",
+    "email":"cliente128@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2021-11-12",
+    "idade":52.0
+  },
+  {
+    "cliente_id":129,
+    "nome":"Carlos 129",
+    "email":"cliente129@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2022-03-02",
+    "idade":44.0
+  },
+  {
+    "cliente_id":130,
+    "nome":"Ana 130",
+    "email":"cliente130@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-08-31",
+    "idade":49.0
+  },
+  {
+    "cliente_id":131,
+    "nome":"Beatriz 131",
+    "email":"cliente131@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-12",
+    "idade":35.0
+  },
+  {
+    "cliente_id":132,
+    "nome":"Carlos 132",
+    "email":"cliente132@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-11",
+    "idade":54.0
+  },
+  {
+    "cliente_id":133,
+    "nome":"Fernanda 133",
+    "email":"cliente133@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2021-12-13",
+    "idade":27.0
+  },
+  {
+    "cliente_id":134,
+    "nome":"Ana 134",
+    "email":"cliente134@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2022-11-03",
+    "idade":58.0
+  },
+  {
+    "cliente_id":135,
+    "nome":"Hugo 135",
+    "email":"cliente135@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-10",
+    "idade":34.0
+  },
+  {
+    "cliente_id":136,
+    "nome":"Pedro 136",
+    "email":"cliente136@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-10-08",
+    "idade":39.0
+  },
+  {
+    "cliente_id":137,
+    "nome":"Maria 137",
+    "email":"cliente137@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2023-08-27",
+    "idade":65.0
+  },
+  {
+    "cliente_id":138,
+    "nome":"Lucia 138",
+    "email":"cliente138@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2023-08-02",
+    "idade":63.0
+  },
+  {
+    "cliente_id":139,
+    "nome":"Joao 139",
+    "email":"cliente139@varejoamazonia.com",
+    "cidade":" macapa ",
+    "segmento":"Regular",
+    "data_cadastro":"2021-12-15",
+    "idade":26.0
+  },
+  {
+    "cliente_id":140,
+    "nome":"Ana 140",
+    "email":"cliente140@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2021-07-09",
+    "idade":24.0
+  },
+  {
+    "cliente_id":141,
+    "nome":"Maria 141",
+    "email":"cliente141@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-08-23",
+    "idade":63.0
+  },
+  {
+    "cliente_id":142,
+    "nome":"Lucia 142",
+    "email":"cliente142@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2021-08-14",
+    "idade":25.0
+  },
+  {
+    "cliente_id":143,
+    "nome":"Ana 143",
+    "email":"cliente143@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2023-01-02",
+    "idade":48.0
+  },
+  {
+    "cliente_id":144,
+    "nome":"Carlos 144",
+    "email":"cliente144@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-11-16",
+    "idade":49.0
+  },
+  {
+    "cliente_id":145,
+    "nome":"Beatriz 145",
+    "email":"cliente145@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-25",
+    "idade":53.0
+  },
+  {
+    "cliente_id":146,
+    "nome":"Pedro 146",
+    "email":"cliente146@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2022-01-24",
+    "idade":null
+  },
+  {
+    "cliente_id":147,
+    "nome":"Ana 147",
+    "email":"cliente147@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-25",
+    "idade":57.0
+  },
+  {
+    "cliente_id":148,
+    "nome":"Ana 148",
+    "email":"cliente148@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-07-26",
+    "idade":23.0
+  },
+  {
+    "cliente_id":149,
+    "nome":"Pedro 149",
+    "email":"cliente149@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-02-12",
+    "idade":31.0
+  },
+  {
+    "cliente_id":150,
+    "nome":"Pedro 150",
+    "email":"cliente150@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2021-07-15",
+    "idade":48.0
+  },
+  {
+    "cliente_id":151,
+    "nome":"Hugo 151",
+    "email":"cliente151@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-12-21",
+    "idade":40.0
+  },
+  {
+    "cliente_id":152,
+    "nome":"Ana 152",
+    "email":"cliente152@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-05-30",
+    "idade":70.0
+  },
+  {
+    "cliente_id":153,
+    "nome":"Beatriz 153",
+    "email":"cliente153@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-10-29",
+    "idade":28.0
+  },
+  {
+    "cliente_id":154,
+    "nome":"Carlos 154",
+    "email":"cliente154@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2021-09-04",
+    "idade":68.0
+  },
+  {
+    "cliente_id":155,
+    "nome":"Ricardo 155",
+    "email":"cliente155@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2023-08-07",
+    "idade":26.0
+  },
+  {
+    "cliente_id":156,
+    "nome":"Hugo 156",
+    "email":"  CLIENTE156@VAREJOAMAZONIA.COM  ",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-11-06",
+    "idade":35.0
+  },
+  {
+    "cliente_id":157,
+    "nome":"Lucia 157",
+    "email":"cliente157@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2023-10-31",
+    "idade":56.0
+  },
+  {
+    "cliente_id":158,
+    "nome":"Ana 158",
+    "email":"cliente158@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-06-27",
+    "idade":21.0
+  },
+  {
+    "cliente_id":159,
+    "nome":"Carlos 159",
+    "email":"cliente159@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2022-09-18",
+    "idade":31.0
+  },
+  {
+    "cliente_id":160,
+    "nome":"Pedro 160",
+    "email":"cliente160@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2021-08-26",
+    "idade":40.0
+  },
+  {
+    "cliente_id":161,
+    "nome":"Beatriz 161",
+    "email":"cliente161@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-11-29",
+    "idade":51.0
+  },
+  {
+    "cliente_id":162,
+    "nome":"Fernanda 162",
+    "email":"cliente162@varejoamazonia.com",
+    "cidade":"santana",
+    "segmento":"Regular",
+    "data_cadastro":"2021-12-11",
+    "idade":48.0
+  },
+  {
+    "cliente_id":163,
+    "nome":"Ricardo 163",
+    "email":"cliente163@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-07",
+    "idade":60.0
+  },
+  {
+    "cliente_id":164,
+    "nome":"Carlos 164",
+    "email":"cliente164@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2022-06-16",
+    "idade":23.0
+  },
+  {
+    "cliente_id":165,
+    "nome":"Maria 165",
+    "email":"cliente165@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-02-10",
+    "idade":36.0
+  },
+  {
+    "cliente_id":166,
+    "nome":"Hugo 166",
+    "email":"cliente166@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-04-29",
+    "idade":38.0
+  },
+  {
+    "cliente_id":167,
+    "nome":"Joao 167",
+    "email":"cliente167@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-23",
+    "idade":55.0
+  },
+  {
+    "cliente_id":168,
+    "nome":"Lucia 168",
+    "email":"cliente168@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2022-05-23",
+    "idade":50.0
+  },
+  {
+    "cliente_id":169,
+    "nome":"Lucia 169",
+    "email":"cliente169@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2022-10-23",
+    "idade":60.0
+  },
+  {
+    "cliente_id":170,
+    "nome":"Joao 170",
+    "email":"cliente170@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-02-22",
+    "idade":23.0
+  },
+  {
+    "cliente_id":171,
+    "nome":"Beatriz 171",
+    "email":"cliente171@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2023-02-05",
+    "idade":41.0
+  },
+  {
+    "cliente_id":172,
+    "nome":"Ricardo 172",
+    "email":"cliente172@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2023-01-07",
+    "idade":23.0
+  },
+  {
+    "cliente_id":173,
+    "nome":"Maria 173",
+    "email":"cliente173@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-01-19",
+    "idade":59.0
+  },
+  {
+    "cliente_id":174,
+    "nome":"Lucia 174",
+    "email":"cliente174@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-11-19",
+    "idade":25.0
+  },
+  {
+    "cliente_id":175,
+    "nome":"Beatriz 175",
+    "email":"cliente175@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2023-06-28",
+    "idade":null
+  },
+  {
+    "cliente_id":176,
+    "nome":"Hugo 176",
+    "email":"cliente176@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2023-05-28",
+    "idade":52.0
+  },
+  {
+    "cliente_id":177,
+    "nome":"Maria 177",
+    "email":"cliente177@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2022-04-06",
+    "idade":38.0
+  },
+  {
+    "cliente_id":178,
+    "nome":"Ana 178",
+    "email":"cliente178@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-07-29",
+    "idade":57.0
+  },
+  {
+    "cliente_id":179,
+    "nome":"Ricardo 179",
+    "email":"cliente179@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2022-06-18",
+    "idade":52.0
+  },
+  {
+    "cliente_id":180,
+    "nome":"Carlos 180",
+    "email":"cliente180@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2023-02-13",
+    "idade":67.0
+  },
+  {
+    "cliente_id":181,
+    "nome":"Hugo 181",
+    "email":"cliente181@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-09-05",
+    "idade":50.0
+  },
+  {
+    "cliente_id":182,
+    "nome":"Lucia 182",
+    "email":"cliente182@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-05-31",
+    "idade":40.0
+  },
+  {
+    "cliente_id":183,
+    "nome":"Ana 183",
+    "email":"cliente183@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2021-07-21",
+    "idade":32.0
+  },
+  {
+    "cliente_id":184,
+    "nome":"Hugo 184",
+    "email":"cliente184@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2023-02-10",
+    "idade":48.0
+  },
+  {
+    "cliente_id":185,
+    "nome":"Carlos 185",
+    "email":"cliente185@varejoamazonia.com",
+    "cidade":"santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-04-28",
+    "idade":64.0
+  },
+  {
+    "cliente_id":186,
+    "nome":"Beatriz 186",
+    "email":"cliente186@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2021-07-02",
+    "idade":61.0
+  },
+  {
+    "cliente_id":187,
+    "nome":"Ricardo 187",
+    "email":"  CLIENTE187@VAREJOAMAZONIA.COM  ",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-08-13",
+    "idade":26.0
+  },
+  {
+    "cliente_id":188,
+    "nome":"Fernanda 188",
+    "email":"cliente188@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2021-12-28",
+    "idade":50.0
+  },
+  {
+    "cliente_id":189,
+    "nome":"Pedro 189",
+    "email":"cliente189@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-17",
+    "idade":33.0
+  },
+  {
+    "cliente_id":190,
+    "nome":"Fernanda 190",
+    "email":"cliente190@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2022-06-28",
+    "idade":48.0
+  },
+  {
+    "cliente_id":191,
+    "nome":"Fernanda 191",
+    "email":"cliente191@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2021-10-26",
+    "idade":44.0
+  },
+  {
+    "cliente_id":192,
+    "nome":"Fernanda 192",
+    "email":"cliente192@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-08-21",
+    "idade":50.0
+  },
+  {
+    "cliente_id":193,
+    "nome":"Ana 193",
+    "email":"cliente193@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-14",
+    "idade":63.0
+  },
+  {
+    "cliente_id":194,
+    "nome":"Lucia 194",
+    "email":"cliente194@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-10-12",
+    "idade":30.0
+  },
+  {
+    "cliente_id":195,
+    "nome":"Maria 195",
+    "email":"cliente195@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2022-01-18",
+    "idade":59.0
+  },
+  {
+    "cliente_id":196,
+    "nome":"Hugo 196",
+    "email":"cliente196@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-07",
+    "idade":31.0
+  },
+  {
+    "cliente_id":197,
+    "nome":"Lucia 197",
+    "email":"cliente197@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2021-10-14",
+    "idade":38.0
+  },
+  {
+    "cliente_id":198,
+    "nome":"Ana 198",
+    "email":"cliente198@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2023-08-11",
+    "idade":52.0
+  },
+  {
+    "cliente_id":199,
+    "nome":"Lucia 199",
+    "email":"cliente199@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2023-01-13",
+    "idade":24.0
+  },
+  {
+    "cliente_id":200,
+    "nome":"Carlos 200",
+    "email":"cliente200@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2021-06-13",
+    "idade":45.0
+  },
+  {
+    "cliente_id":201,
+    "nome":"Hugo 201",
+    "email":"cliente201@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-09-16",
+    "idade":36.0
+  },
+  {
+    "cliente_id":202,
+    "nome":"Joao 202",
+    "email":"cliente202@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-16",
+    "idade":28.0
+  },
+  {
+    "cliente_id":203,
+    "nome":"Carlos 203",
+    "email":"cliente203@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-11",
+    "idade":45.0
+  },
+  {
+    "cliente_id":204,
+    "nome":"Lucia 204",
+    "email":"cliente204@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-21",
+    "idade":null
+  },
+  {
+    "cliente_id":205,
+    "nome":"Fernanda 205",
+    "email":"cliente205@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2022-02-28",
+    "idade":42.0
+  },
+  {
+    "cliente_id":206,
+    "nome":"Beatriz 206",
+    "email":"cliente206@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-09-16",
+    "idade":57.0
+  },
+  {
+    "cliente_id":207,
+    "nome":"Carlos 207",
+    "email":"cliente207@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-10-03",
+    "idade":23.0
+  },
+  {
+    "cliente_id":208,
+    "nome":"Pedro 208",
+    "email":"cliente208@varejoamazonia.com",
+    "cidade":"MACAPA",
+    "segmento":"Premium",
+    "data_cadastro":"2022-12-02",
+    "idade":58.0
+  },
+  {
+    "cliente_id":209,
+    "nome":"Ana 209",
+    "email":"cliente209@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-09-19",
+    "idade":60.0
+  },
+  {
+    "cliente_id":210,
+    "nome":"Joao 210",
+    "email":"cliente210@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2023-01-29",
+    "idade":25.0
+  },
+  {
+    "cliente_id":211,
+    "nome":"Fernanda 211",
+    "email":"cliente211@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-18",
+    "idade":49.0
+  },
+  {
+    "cliente_id":212,
+    "nome":"Pedro 212",
+    "email":"cliente212@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2022-11-02",
+    "idade":70.0
+  },
+  {
+    "cliente_id":213,
+    "nome":"Carlos 213",
+    "email":"cliente213@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-04-30",
+    "idade":68.0
+  },
+  {
+    "cliente_id":214,
+    "nome":"Hugo 214",
+    "email":"cliente214@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2021-12-25",
+    "idade":23.0
+  },
+  {
+    "cliente_id":215,
+    "nome":"Beatriz 215",
+    "email":"cliente215@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2023-03-16",
+    "idade":57.0
+  },
+  {
+    "cliente_id":216,
+    "nome":"Beatriz 216",
+    "email":"cliente216@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2022-08-02",
+    "idade":51.0
+  },
+  {
+    "cliente_id":217,
+    "nome":"Pedro 217",
+    "email":"cliente217@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2022-01-10",
+    "idade":39.0
+  },
+  {
+    "cliente_id":218,
+    "nome":"Carlos 218",
+    "email":"  CLIENTE218@VAREJOAMAZONIA.COM  ",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-05",
+    "idade":65.0
+  },
+  {
+    "cliente_id":219,
+    "nome":"Maria 219",
+    "email":"cliente219@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2021-07-27",
+    "idade":44.0
+  },
+  {
+    "cliente_id":220,
+    "nome":"Pedro 220",
+    "email":"cliente220@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-07-11",
+    "idade":34.0
+  },
+  {
+    "cliente_id":221,
+    "nome":"Beatriz 221",
+    "email":"cliente221@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-05",
+    "idade":47.0
+  },
+  {
+    "cliente_id":222,
+    "nome":"Lucia 222",
+    "email":"cliente222@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2023-01-02",
+    "idade":31.0
+  },
+  {
+    "cliente_id":223,
+    "nome":"Carlos 223",
+    "email":"cliente223@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-01-10",
+    "idade":37.0
+  },
+  {
+    "cliente_id":224,
+    "nome":"Beatriz 224",
+    "email":"cliente224@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2022-04-24",
+    "idade":68.0
+  },
+  {
+    "cliente_id":225,
+    "nome":"Beatriz 225",
+    "email":"cliente225@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-08-31",
+    "idade":26.0
+  },
+  {
+    "cliente_id":226,
+    "nome":"Fernanda 226",
+    "email":"cliente226@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-01-26",
+    "idade":21.0
+  },
+  {
+    "cliente_id":227,
+    "nome":"Pedro 227",
+    "email":"cliente227@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-03-22",
+    "idade":52.0
+  },
+  {
+    "cliente_id":228,
+    "nome":"Ricardo 228",
+    "email":"cliente228@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2023-11-07",
+    "idade":64.0
+  },
+  {
+    "cliente_id":229,
+    "nome":"Beatriz 229",
+    "email":"cliente229@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2022-05-31",
+    "idade":39.0
+  },
+  {
+    "cliente_id":230,
+    "nome":"Beatriz 230",
+    "email":"cliente230@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2023-09-22",
+    "idade":29.0
+  },
+  {
+    "cliente_id":231,
+    "nome":"Ana 231",
+    "email":"cliente231@varejoamazonia.com",
+    "cidade":"santana",
+    "segmento":"VIP",
+    "data_cadastro":"2021-10-24",
+    "idade":40.0
+  },
+  {
+    "cliente_id":232,
+    "nome":"Maria 232",
+    "email":"cliente232@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2021-12-22",
+    "idade":43.0
+  },
+  {
+    "cliente_id":233,
+    "nome":"Joao 233",
+    "email":"cliente233@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-16",
+    "idade":null
+  },
+  {
+    "cliente_id":234,
+    "nome":"Joao 234",
+    "email":"cliente234@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-07-12",
+    "idade":52.0
+  },
+  {
+    "cliente_id":235,
+    "nome":"Ricardo 235",
+    "email":"cliente235@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2021-10-04",
+    "idade":67.0
+  },
+  {
+    "cliente_id":236,
+    "nome":"Lucia 236",
+    "email":"cliente236@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-07-26",
+    "idade":33.0
+  },
+  {
+    "cliente_id":237,
+    "nome":"Hugo 237",
+    "email":"cliente237@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-03-19",
+    "idade":22.0
+  },
+  {
+    "cliente_id":238,
+    "nome":"Pedro 238",
+    "email":"cliente238@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-06-01",
+    "idade":24.0
+  },
+  {
+    "cliente_id":239,
+    "nome":"Pedro 239",
+    "email":"cliente239@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2022-10-14",
+    "idade":64.0
+  },
+  {
+    "cliente_id":240,
+    "nome":"Beatriz 240",
+    "email":"cliente240@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-13",
+    "idade":50.0
+  },
+  {
+    "cliente_id":241,
+    "nome":"Fernanda 241",
+    "email":"cliente241@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-09-29",
+    "idade":34.0
+  },
+  {
+    "cliente_id":242,
+    "nome":"Joao 242",
+    "email":"cliente242@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-06-10",
+    "idade":24.0
+  },
+  {
+    "cliente_id":243,
+    "nome":"Fernanda 243",
+    "email":"cliente243@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2023-05-18",
+    "idade":55.0
+  },
+  {
+    "cliente_id":244,
+    "nome":"Fernanda 244",
+    "email":"cliente244@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-09-21",
+    "idade":68.0
+  },
+  {
+    "cliente_id":245,
+    "nome":"Hugo 245",
+    "email":"cliente245@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2021-10-15",
+    "idade":64.0
+  },
+  {
+    "cliente_id":246,
+    "nome":"Lucia 246",
+    "email":"cliente246@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-06-01",
+    "idade":38.0
+  },
+  {
+    "cliente_id":247,
+    "nome":"Maria 247",
+    "email":"cliente247@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-02-03",
+    "idade":23.0
+  },
+  {
+    "cliente_id":248,
+    "nome":"Lucia 248",
+    "email":"cliente248@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-08-15",
+    "idade":60.0
+  },
+  {
+    "cliente_id":249,
+    "nome":"Hugo 249",
+    "email":"  CLIENTE249@VAREJOAMAZONIA.COM  ",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-09-21",
+    "idade":63.0
+  },
+  {
+    "cliente_id":250,
+    "nome":"Maria 250",
+    "email":"cliente250@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-01-30",
+    "idade":42.0
+  },
+  {
+    "cliente_id":251,
+    "nome":"Fernanda 251",
+    "email":"cliente251@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2022-12-29",
+    "idade":26.0
+  },
+  {
+    "cliente_id":252,
+    "nome":"Joao 252",
+    "email":"cliente252@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-02-15",
+    "idade":58.0
+  },
+  {
+    "cliente_id":253,
+    "nome":"Ricardo 253",
+    "email":"cliente253@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2022-04-01",
+    "idade":67.0
+  },
+  {
+    "cliente_id":254,
+    "nome":"Ricardo 254",
+    "email":"cliente254@varejoamazonia.com",
+    "cidade":" macapa ",
+    "segmento":"Premium",
+    "data_cadastro":"2022-12-04",
+    "idade":40.0
+  },
+  {
+    "cliente_id":255,
+    "nome":"Maria 255",
+    "email":"cliente255@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2023-02-01",
+    "idade":39.0
+  },
+  {
+    "cliente_id":256,
+    "nome":"Ricardo 256",
+    "email":"cliente256@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-03-17",
+    "idade":26.0
+  },
+  {
+    "cliente_id":257,
+    "nome":"Beatriz 257",
+    "email":"cliente257@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2021-09-25",
+    "idade":28.0
+  },
+  {
+    "cliente_id":258,
+    "nome":"Beatriz 258",
+    "email":"cliente258@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2022-03-27",
+    "idade":69.0
+  },
+  {
+    "cliente_id":259,
+    "nome":"Fernanda 259",
+    "email":"cliente259@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2022-07-17",
+    "idade":24.0
+  },
+  {
+    "cliente_id":260,
+    "nome":"Carlos 260",
+    "email":"cliente260@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2023-11-12",
+    "idade":68.0
+  },
+  {
+    "cliente_id":261,
+    "nome":"Beatriz 261",
+    "email":"cliente261@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2023-10-01",
+    "idade":48.0
+  },
+  {
+    "cliente_id":262,
+    "nome":"Beatriz 262",
+    "email":"cliente262@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-01-01",
+    "idade":null
+  },
+  {
+    "cliente_id":263,
+    "nome":"Hugo 263",
+    "email":"cliente263@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-06-14",
+    "idade":46.0
+  },
+  {
+    "cliente_id":264,
+    "nome":"Hugo 264",
+    "email":"cliente264@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-10-11",
+    "idade":30.0
+  },
+  {
+    "cliente_id":265,
+    "nome":"Maria 265",
+    "email":"cliente265@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-24",
+    "idade":66.0
+  },
+  {
+    "cliente_id":266,
+    "nome":"Lucia 266",
+    "email":"cliente266@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2023-10-29",
+    "idade":45.0
+  },
+  {
+    "cliente_id":267,
+    "nome":"Lucia 267",
+    "email":"cliente267@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2021-12-03",
+    "idade":24.0
+  },
+  {
+    "cliente_id":268,
+    "nome":"Pedro 268",
+    "email":"cliente268@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2021-10-24",
+    "idade":31.0
+  },
+  {
+    "cliente_id":269,
+    "nome":"Ricardo 269",
+    "email":"cliente269@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2023-04-10",
+    "idade":34.0
+  },
+  {
+    "cliente_id":270,
+    "nome":"Maria 270",
+    "email":"cliente270@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2021-12-15",
+    "idade":35.0
+  },
+  {
+    "cliente_id":271,
+    "nome":"Lucia 271",
+    "email":"cliente271@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2021-10-10",
+    "idade":29.0
+  },
+  {
+    "cliente_id":272,
+    "nome":"Fernanda 272",
+    "email":"cliente272@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-11-28",
+    "idade":21.0
+  },
+  {
+    "cliente_id":273,
+    "nome":"Joao 273",
+    "email":"cliente273@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-09-20",
+    "idade":36.0
+  },
+  {
+    "cliente_id":274,
+    "nome":"Beatriz 274",
+    "email":"cliente274@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2023-08-18",
+    "idade":29.0
+  },
+  {
+    "cliente_id":275,
+    "nome":"Carlos 275",
+    "email":"cliente275@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-10-04",
+    "idade":48.0
+  },
+  {
+    "cliente_id":276,
+    "nome":"Pedro 276",
+    "email":"cliente276@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-05-11",
+    "idade":60.0
+  },
+  {
+    "cliente_id":277,
+    "nome":"Beatriz 277",
+    "email":"cliente277@varejoamazonia.com",
+    "cidade":"Cidade Inexistente",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-24",
+    "idade":42.0
+  },
+  {
+    "cliente_id":278,
+    "nome":"Joao 278",
+    "email":"cliente278@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-01",
+    "idade":25.0
+  },
+  {
+    "cliente_id":279,
+    "nome":"Ricardo 279",
+    "email":"cliente279@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2022-10-14",
+    "idade":26.0
+  },
+  {
+    "cliente_id":280,
+    "nome":"Pedro 280",
+    "email":"  CLIENTE280@VAREJOAMAZONIA.COM  ",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-03-16",
+    "idade":23.0
+  },
+  {
+    "cliente_id":281,
+    "nome":"Fernanda 281",
+    "email":"cliente281@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-06-12",
+    "idade":38.0
+  },
+  {
+    "cliente_id":282,
+    "nome":"Pedro 282",
+    "email":"cliente282@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2022-12-12",
+    "idade":38.0
+  },
+  {
+    "cliente_id":283,
+    "nome":"Lucia 283",
+    "email":"cliente283@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2021-10-20",
+    "idade":55.0
+  },
+  {
+    "cliente_id":284,
+    "nome":"Beatriz 284",
+    "email":"cliente284@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-07-08",
+    "idade":35.0
+  },
+  {
+    "cliente_id":285,
+    "nome":"Joao 285",
+    "email":"cliente285@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-17",
+    "idade":31.0
+  },
+  {
+    "cliente_id":286,
+    "nome":"Ana 286",
+    "email":"cliente286@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-07-26",
+    "idade":28.0
+  },
+  {
+    "cliente_id":287,
+    "nome":"Ana 287",
+    "email":"cliente287@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-10-19",
+    "idade":36.0
+  },
+  {
+    "cliente_id":288,
+    "nome":"Maria 288",
+    "email":"cliente288@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2023-10-25",
+    "idade":23.0
+  },
+  {
+    "cliente_id":289,
+    "nome":"Beatriz 289",
+    "email":"cliente289@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2022-01-08",
+    "idade":64.0
+  },
+  {
+    "cliente_id":290,
+    "nome":"Ana 290",
+    "email":"cliente290@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2021-09-07",
+    "idade":67.0
+  },
+  {
+    "cliente_id":291,
+    "nome":"Pedro 291",
+    "email":"cliente291@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-07-10",
+    "idade":null
+  },
+  {
+    "cliente_id":292,
+    "nome":"Beatriz 292",
+    "email":"cliente292@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-02-04",
+    "idade":66.0
+  },
+  {
+    "cliente_id":293,
+    "nome":"Joao 293",
+    "email":"cliente293@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2021-06-14",
+    "idade":60.0
+  },
+  {
+    "cliente_id":294,
+    "nome":"Pedro 294",
+    "email":"cliente294@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2022-02-04",
+    "idade":24.0
+  },
+  {
+    "cliente_id":295,
+    "nome":"Lucia 295",
+    "email":"cliente295@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2021-11-28",
+    "idade":40.0
+  },
+  {
+    "cliente_id":296,
+    "nome":"Carlos 296",
+    "email":"cliente296@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-07-20",
+    "idade":68.0
+  },
+  {
+    "cliente_id":297,
+    "nome":"Joao 297",
+    "email":"cliente297@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2023-10-10",
+    "idade":28.0
+  },
+  {
+    "cliente_id":298,
+    "nome":"Carlos 298",
+    "email":"cliente298@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2023-06-21",
+    "idade":32.0
+  },
+  {
+    "cliente_id":299,
+    "nome":"Lucia 299",
+    "email":"cliente299@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2021-09-20",
+    "idade":26.0
+  },
+  {
+    "cliente_id":300,
+    "nome":"Pedro 300",
+    "email":"cliente300@varejoamazonia.com",
+    "cidade":"Cidade Inexistente",
+    "segmento":"VIP",
+    "data_cadastro":"2023-04-13",
+    "idade":27.0
+  },
+  {
+    "cliente_id":301,
+    "nome":"Maria 301",
+    "email":"cliente301@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-04-13",
+    "idade":60.0
+  },
+  {
+    "cliente_id":302,
+    "nome":"Joao 302",
+    "email":"cliente302@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2021-08-23",
+    "idade":51.0
+  },
+  {
+    "cliente_id":303,
+    "nome":"Carlos 303",
+    "email":"cliente303@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2023-03-11",
+    "idade":26.0
+  },
+  {
+    "cliente_id":304,
+    "nome":"Pedro 304",
+    "email":"cliente304@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2022-04-15",
+    "idade":55.0
+  },
+  {
+    "cliente_id":305,
+    "nome":"Maria 305",
+    "email":"cliente305@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-06-21",
+    "idade":68.0
+  },
+  {
+    "cliente_id":306,
+    "nome":"Ricardo 306",
+    "email":"cliente306@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-01-16",
+    "idade":40.0
+  },
+  {
+    "cliente_id":307,
+    "nome":"Carlos 307",
+    "email":"cliente307@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2023-04-27",
+    "idade":27.0
+  },
+  {
+    "cliente_id":308,
+    "nome":"Ricardo 308",
+    "email":"cliente308@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2023-08-23",
+    "idade":45.0
+  },
+  {
+    "cliente_id":309,
+    "nome":"Maria 309",
+    "email":"cliente309@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-04-05",
+    "idade":40.0
+  },
+  {
+    "cliente_id":310,
+    "nome":"Ana 310",
+    "email":"cliente310@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-16",
+    "idade":65.0
+  },
+  {
+    "cliente_id":311,
+    "nome":"Lucia 311",
+    "email":"  CLIENTE311@VAREJOAMAZONIA.COM  ",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2021-08-31",
+    "idade":70.0
+  },
+  {
+    "cliente_id":312,
+    "nome":"Fernanda 312",
+    "email":"cliente312@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-07-20",
+    "idade":69.0
+  },
+  {
+    "cliente_id":313,
+    "nome":"Lucia 313",
+    "email":"cliente313@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-08-24",
+    "idade":53.0
+  },
+  {
+    "cliente_id":314,
+    "nome":"Fernanda 314",
+    "email":"cliente314@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2023-04-25",
+    "idade":28.0
+  },
+  {
+    "cliente_id":315,
+    "nome":"Joao 315",
+    "email":"cliente315@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2023-04-22",
+    "idade":32.0
+  },
+  {
+    "cliente_id":316,
+    "nome":"Fernanda 316",
+    "email":"cliente316@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2021-06-06",
+    "idade":32.0
+  },
+  {
+    "cliente_id":317,
+    "nome":"Fernanda 317",
+    "email":"cliente317@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-19",
+    "idade":46.0
+  },
+  {
+    "cliente_id":318,
+    "nome":"Pedro 318",
+    "email":"cliente318@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2021-11-04",
+    "idade":32.0
+  },
+  {
+    "cliente_id":319,
+    "nome":"Ricardo 319",
+    "email":"cliente319@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2022-01-23",
+    "idade":48.0
+  },
+  {
+    "cliente_id":320,
+    "nome":"Carlos 320",
+    "email":"cliente320@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2021-06-01",
+    "idade":null
+  },
+  {
+    "cliente_id":321,
+    "nome":"Fernanda 321",
+    "email":"cliente321@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-28",
+    "idade":58.0
+  },
+  {
+    "cliente_id":322,
+    "nome":"Ana 322",
+    "email":"cliente322@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2023-07-20",
+    "idade":67.0
+  },
+  {
+    "cliente_id":323,
+    "nome":"Ricardo 323",
+    "email":"cliente323@varejoamazonia.com",
+    "cidade":" macapa ",
+    "segmento":"Premium",
+    "data_cadastro":"2023-06-05",
+    "idade":25.0
+  },
+  {
+    "cliente_id":324,
+    "nome":"Maria 324",
+    "email":"cliente324@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2021-07-17",
+    "idade":39.0
+  },
+  {
+    "cliente_id":325,
+    "nome":"Fernanda 325",
+    "email":"cliente325@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2022-12-15",
+    "idade":29.0
+  },
+  {
+    "cliente_id":326,
+    "nome":"Ana 326",
+    "email":"cliente326@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2021-09-04",
+    "idade":50.0
+  },
+  {
+    "cliente_id":327,
+    "nome":"Beatriz 327",
+    "email":"cliente327@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-23",
+    "idade":67.0
+  },
+  {
+    "cliente_id":328,
+    "nome":"Ana 328",
+    "email":"cliente328@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-10-22",
+    "idade":33.0
+  },
+  {
+    "cliente_id":329,
+    "nome":"Ana 329",
+    "email":"cliente329@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2021-08-26",
+    "idade":30.0
+  },
+  {
+    "cliente_id":330,
+    "nome":"Carlos 330",
+    "email":"cliente330@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2022-10-06",
+    "idade":59.0
+  },
+  {
+    "cliente_id":331,
+    "nome":"Ana 331",
+    "email":"cliente331@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-09-21",
+    "idade":44.0
+  },
+  {
+    "cliente_id":332,
+    "nome":"Lucia 332",
+    "email":"cliente332@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2021-10-22",
+    "idade":65.0
+  },
+  {
+    "cliente_id":333,
+    "nome":"Fernanda 333",
+    "email":"cliente333@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-23",
+    "idade":62.0
+  },
+  {
+    "cliente_id":334,
+    "nome":"Ana 334",
+    "email":"cliente334@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2023-07-10",
+    "idade":43.0
+  },
+  {
+    "cliente_id":335,
+    "nome":"Pedro 335",
+    "email":"cliente335@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-03",
+    "idade":35.0
+  },
+  {
+    "cliente_id":336,
+    "nome":"Ana 336",
+    "email":"cliente336@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-09",
+    "idade":39.0
+  },
+  {
+    "cliente_id":337,
+    "nome":"Hugo 337",
+    "email":"cliente337@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-10-28",
+    "idade":47.0
+  },
+  {
+    "cliente_id":338,
+    "nome":"Joao 338",
+    "email":"cliente338@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2021-08-14",
+    "idade":50.0
+  },
+  {
+    "cliente_id":339,
+    "nome":"Maria 339",
+    "email":"cliente339@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-06-06",
+    "idade":34.0
+  },
+  {
+    "cliente_id":340,
+    "nome":"Carlos 340",
+    "email":"cliente340@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-05-17",
+    "idade":33.0
+  },
+  {
+    "cliente_id":341,
+    "nome":"Hugo 341",
+    "email":"cliente341@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-05-23",
+    "idade":64.0
+  },
+  {
+    "cliente_id":342,
+    "nome":"Carlos 342",
+    "email":"  CLIENTE342@VAREJOAMAZONIA.COM  ",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-10",
+    "idade":43.0
+  },
+  {
+    "cliente_id":343,
+    "nome":"Fernanda 343",
+    "email":"cliente343@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-19",
+    "idade":66.0
+  },
+  {
+    "cliente_id":344,
+    "nome":"Hugo 344",
+    "email":"cliente344@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2023-08-19",
+    "idade":68.0
+  },
+  {
+    "cliente_id":345,
+    "nome":"Hugo 345",
+    "email":"cliente345@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2022-08-22",
+    "idade":70.0
+  },
+  {
+    "cliente_id":346,
+    "nome":"Hugo 346",
+    "email":"cliente346@varejoamazonia.com",
+    "cidade":" macapa ",
+    "segmento":"Premium",
+    "data_cadastro":"2021-08-24",
+    "idade":22.0
+  },
+  {
+    "cliente_id":347,
+    "nome":"Fernanda 347",
+    "email":"cliente347@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-03-03",
+    "idade":64.0
+  },
+  {
+    "cliente_id":348,
+    "nome":"Lucia 348",
+    "email":"cliente348@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2021-09-03",
+    "idade":56.0
+  },
+  {
+    "cliente_id":349,
+    "nome":"Carlos 349",
+    "email":"cliente349@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2021-12-02",
+    "idade":null
+  },
+  {
+    "cliente_id":350,
+    "nome":"Fernanda 350",
+    "email":"cliente350@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-24",
+    "idade":69.0
+  },
+  {
+    "cliente_id":351,
+    "nome":"Joao 351",
+    "email":"cliente351@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-03-09",
+    "idade":46.0
+  },
+  {
+    "cliente_id":352,
+    "nome":"Ana 352",
+    "email":"cliente352@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2023-08-20",
+    "idade":65.0
+  },
+  {
+    "cliente_id":353,
+    "nome":"Pedro 353",
+    "email":"cliente353@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2022-05-28",
+    "idade":63.0
+  },
+  {
+    "cliente_id":354,
+    "nome":"Ricardo 354",
+    "email":"cliente354@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2022-11-09",
+    "idade":66.0
+  },
+  {
+    "cliente_id":355,
+    "nome":"Ricardo 355",
+    "email":"cliente355@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2023-07-03",
+    "idade":22.0
+  },
+  {
+    "cliente_id":356,
+    "nome":"Lucia 356",
+    "email":"cliente356@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2022-06-27",
+    "idade":33.0
+  },
+  {
+    "cliente_id":357,
+    "nome":"Lucia 357",
+    "email":"cliente357@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2022-07-08",
+    "idade":67.0
+  },
+  {
+    "cliente_id":358,
+    "nome":"Ana 358",
+    "email":"cliente358@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2022-03-25",
+    "idade":53.0
+  },
+  {
+    "cliente_id":359,
+    "nome":"Maria 359",
+    "email":"cliente359@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-03-04",
+    "idade":67.0
+  },
+  {
+    "cliente_id":360,
+    "nome":"Carlos 360",
+    "email":"cliente360@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2021-11-27",
+    "idade":43.0
+  },
+  {
+    "cliente_id":361,
+    "nome":"Lucia 361",
+    "email":"cliente361@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2021-07-22",
+    "idade":43.0
+  },
+  {
+    "cliente_id":362,
+    "nome":"Hugo 362",
+    "email":"cliente362@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Regular",
+    "data_cadastro":"2022-12-30",
+    "idade":41.0
+  },
+  {
+    "cliente_id":363,
+    "nome":"Fernanda 363",
+    "email":"cliente363@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2022-05-29",
+    "idade":47.0
+  },
+  {
+    "cliente_id":364,
+    "nome":"Lucia 364",
+    "email":"cliente364@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2023-04-23",
+    "idade":40.0
+  },
+  {
+    "cliente_id":365,
+    "nome":"Lucia 365",
+    "email":"cliente365@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-08-29",
+    "idade":28.0
+  },
+  {
+    "cliente_id":366,
+    "nome":"Hugo 366",
+    "email":"cliente366@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2021-06-12",
+    "idade":23.0
+  },
+  {
+    "cliente_id":367,
+    "nome":"Ana 367",
+    "email":"cliente367@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2022-07-19",
+    "idade":22.0
+  },
+  {
+    "cliente_id":368,
+    "nome":"Ricardo 368",
+    "email":"cliente368@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2021-11-26",
+    "idade":65.0
+  },
+  {
+    "cliente_id":369,
+    "nome":"Ana 369",
+    "email":"cliente369@varejoamazonia.com",
+    "cidade":"MACAPA",
+    "segmento":"Premium",
+    "data_cadastro":"2022-06-21",
+    "idade":26.0
+  },
+  {
+    "cliente_id":370,
+    "nome":"Carlos 370",
+    "email":"cliente370@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2022-02-25",
+    "idade":23.0
+  },
+  {
+    "cliente_id":371,
+    "nome":"Fernanda 371",
+    "email":"cliente371@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2023-08-10",
+    "idade":59.0
+  },
+  {
+    "cliente_id":372,
+    "nome":"Pedro 372",
+    "email":"cliente372@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-05-18",
+    "idade":36.0
+  },
+  {
+    "cliente_id":373,
+    "nome":"Pedro 373",
+    "email":"  CLIENTE373@VAREJOAMAZONIA.COM  ",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2022-04-18",
+    "idade":62.0
+  },
+  {
+    "cliente_id":374,
+    "nome":"Joao 374",
+    "email":"cliente374@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"VIP",
+    "data_cadastro":"2023-05-24",
+    "idade":38.0
+  },
+  {
+    "cliente_id":375,
+    "nome":"Fernanda 375",
+    "email":"cliente375@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2022-06-29",
+    "idade":45.0
+  },
+  {
+    "cliente_id":376,
+    "nome":"Maria 376",
+    "email":"cliente376@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2022-03-30",
+    "idade":46.0
+  },
+  {
+    "cliente_id":377,
+    "nome":"Ana 377",
+    "email":"cliente377@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2021-10-09",
+    "idade":32.0
+  },
+  {
+    "cliente_id":378,
+    "nome":"Maria 378",
+    "email":"cliente378@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"VIP",
+    "data_cadastro":"2021-06-17",
+    "idade":null
+  },
+  {
+    "cliente_id":379,
+    "nome":"Carlos 379",
+    "email":"cliente379@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2022-03-29",
+    "idade":31.0
+  },
+  {
+    "cliente_id":380,
+    "nome":"Ana 380",
+    "email":"cliente380@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"Premium",
+    "data_cadastro":"2023-01-18",
+    "idade":67.0
+  },
+  {
+    "cliente_id":381,
+    "nome":"Ana 381",
+    "email":"cliente381@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-03",
+    "idade":57.0
+  },
+  {
+    "cliente_id":382,
+    "nome":"Ana 382",
+    "email":"cliente382@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2021-07-05",
+    "idade":65.0
+  },
+  {
+    "cliente_id":383,
+    "nome":"Joao 383",
+    "email":"cliente383@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-05-11",
+    "idade":60.0
+  },
+  {
+    "cliente_id":384,
+    "nome":"Ana 384",
+    "email":"cliente384@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2023-06-12",
+    "idade":26.0
+  },
+  {
+    "cliente_id":385,
+    "nome":"Fernanda 385",
+    "email":"cliente385@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"VIP",
+    "data_cadastro":"2022-11-13",
+    "idade":53.0
+  },
+  {
+    "cliente_id":386,
+    "nome":"Maria 386",
+    "email":"cliente386@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Premium",
+    "data_cadastro":"2022-11-03",
+    "idade":59.0
+  },
+  {
+    "cliente_id":387,
+    "nome":"Beatriz 387",
+    "email":"cliente387@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2023-06-15",
+    "idade":31.0
+  },
+  {
+    "cliente_id":388,
+    "nome":"Hugo 388",
+    "email":"cliente388@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Premium",
+    "data_cadastro":"2022-08-19",
+    "idade":56.0
+  },
+  {
+    "cliente_id":389,
+    "nome":"Fernanda 389",
+    "email":"cliente389@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Regular",
+    "data_cadastro":"2022-09-01",
+    "idade":63.0
+  },
+  {
+    "cliente_id":390,
+    "nome":"Carlos 390",
+    "email":"cliente390@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"Regular",
+    "data_cadastro":"2023-08-11",
+    "idade":56.0
+  },
+  {
+    "cliente_id":391,
+    "nome":"Maria 391",
+    "email":"cliente391@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Regular",
+    "data_cadastro":"2022-05-08",
+    "idade":25.0
+  },
+  {
+    "cliente_id":392,
+    "nome":"Lucia 392",
+    "email":"cliente392@varejoamazonia.com",
+    "cidade":"MACAPA",
+    "segmento":"VIP",
+    "data_cadastro":"2023-07-31",
+    "idade":23.0
+  },
+  {
+    "cliente_id":393,
+    "nome":"Carlos 393",
+    "email":"cliente393@varejoamazonia.com",
+    "cidade":"Mazagao",
+    "segmento":"Premium",
+    "data_cadastro":"2022-07-06",
+    "idade":40.0
+  },
+  {
+    "cliente_id":394,
+    "nome":"Beatriz 394",
+    "email":"cliente394@varejoamazonia.com",
+    "cidade":"Macapa",
+    "segmento":"VIP",
+    "data_cadastro":"2023-09-08",
+    "idade":27.0
+  },
+  {
+    "cliente_id":395,
+    "nome":"Beatriz 395",
+    "email":"cliente395@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"VIP",
+    "data_cadastro":"2022-03-02",
+    "idade":69.0
+  },
+  {
+    "cliente_id":396,
+    "nome":"Pedro 396",
+    "email":"cliente396@varejoamazonia.com",
+    "cidade":"Oiapoque",
+    "segmento":"Regular",
+    "data_cadastro":"2023-02-10",
+    "idade":50.0
+  },
+  {
+    "cliente_id":397,
+    "nome":"Beatriz 397",
+    "email":"cliente397@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Regular",
+    "data_cadastro":"2023-03-02",
+    "idade":56.0
+  },
+  {
+    "cliente_id":398,
+    "nome":"Maria 398",
+    "email":"cliente398@varejoamazonia.com",
+    "cidade":"Santana",
+    "segmento":"Premium",
+    "data_cadastro":"2021-10-29",
+    "idade":51.0
+  },
+  {
+    "cliente_id":399,
+    "nome":"Carlos 399",
+    "email":"cliente399@varejoamazonia.com",
+    "cidade":"Laranjal do Jari",
+    "segmento":"Premium",
+    "data_cadastro":"2021-11-30",
+    "idade":50.0
+  },
+  {
+    "cliente_id":400,
+    "nome":"Beatriz 400",
+    "email":"cliente400@varejoamazonia.com",
+    "cidade":"Porto Grande",
+    "segmento":"VIP",
+    "data_cadastro":"2022-09-28",
+    "idade":69.0
+  }
+]
